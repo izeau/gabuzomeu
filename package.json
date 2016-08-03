@@ -1,0 +1,13 @@
+{
+  "name": "gabuzomeu",
+  "version": "1.0.0",
+  "description": "A silly lib to convert human numbers to shadok and vice-versa",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": ["shadok", "gibi", "number", "base", "ga", "bu", "zo", "meu"],
+  "author": "Jean Dupouy <jean.dupouy@rednet.io>",
+  "repository": "izeau/gabuzomeu",
+  "license": "MIT"
+}
